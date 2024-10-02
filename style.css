@@ -1,0 +1,13 @@
+.box{
+background-color: black;
+width: 500px;
+height: 300px;
+border-radius: 30px;
+}
+p{
+color: white;
+margin-left: 30px;
+padding-top: 30px;
+font-size: 30px;
+font-weight: 900;
+}
